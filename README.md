@@ -1,4 +1,6 @@
-# DBMS Lab Experiments 1–6
+# DBMS-LAB-EXPERIMENTS
+
+Semester 3 DBMS lab experiments 1–6.
 
 This repository contains the DBMS laboratory experiments in order. Experiments 1 and 2 preserve the supplied PDF files. Experiments 3–6 each have a separate MySQL source file and a detailed experiment README with the aim, explanation, run guidance, source code, and expected output.
 
